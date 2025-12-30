@@ -1,0 +1,20 @@
+# ================================
+# Sample Data – Library Management System
+# Option 3 (Advanced Version)
+# ================================
+
+# Sample Members
+MemberID, Name, Contact
+M001, Alice Johnson, 9876543210
+M002, Bob Williams, 9123456789
+
+# Sample Books
+ISBN, Title, Author, Genre
+978-3-16-148410-0, Java Programming Guide, John Smith, Programming
+978-0-13-468599-1, Effective Java, Joshua Bloch, Programming
+978-0-262-03384-8, Introduction to Algorithms, Thomas Cormen, Computer Science
+978-1-56619-909-4, Clean Code, Robert C. Martin, Programming
+
+# Notes
+# - These records are preloaded when the application starts
+# - Used for testing borrow, return, fine calculation, and overdue reports
